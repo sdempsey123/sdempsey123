@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that need a web designer.
 - 📫 How to reach me is through my gmail account (steve.dempsey624@gmail.com) or my personal website (https://steveldempsey.com).
 - :teacher: I recently graduated from Coding Dojo web developer boot camp and now I'm ready to embark on my new career.
-- 
+- 🏌️‍♂️My first project is about bad golfers, like myself. I wanted to give some encouragement to those who aren't very good with golfing, and just tell them that if you play within yourself, you can play on good golf courses. 
 
 <!---
 sdempsey123/sdempsey123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
