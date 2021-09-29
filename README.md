@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning to improve myself with the use of HTML, CSS, Java, Django, and Python, mainly becoming the best web designer I can be.
 - 💞️ I’m looking to collaborate on projects that need a web designer.
 - 📫 How to reach me is through my gmail account (steve.dempsey624@gmail.com) or my personal website (https://steveldempsey.com).
+- :teacher: I recently graduated from Coding Dojo web developer boot camp and now I'm ready to embark on my new career.
+- 
 
 <!---
 sdempsey123/sdempsey123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
